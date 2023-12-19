@@ -1,0 +1,10 @@
+#caja {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.lugar {
+    border: 2px black solid;
+    background-color: aquamarine;
+}
